@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slot
+  - pickable
+  - CraftingOption
+  - ReqText
+  - Axe
+  - QuickSlot
+  - Frame
+  - Stone
+  - Hemp
+  - Tree
+  - Stick
+  - Log
+  - Wall
+  - Foundation
+  - CampFire
+  - Ground
+  - ghost
+  - activeConstructable
+  - placedFoundation
+  - Water
+  - Outline
+  - Tree2
+  - Tree3
+  - Tree4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PostProcessing
+  - Equippable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
